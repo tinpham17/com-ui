@@ -11,3 +11,10 @@ Preview here: https://com-ui-tinpham.vercel.app/
 `npm run dev`
 
 Open http://localhost:5173/
+
+## Notification System Design for a social network website
+
+Here is my basic design diagram:
+
+![Notification System Design](./Notification%20System%20Design.png)
+
