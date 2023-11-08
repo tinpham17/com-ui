@@ -1,0 +1,6 @@
+.modal-footer {
+  padding: var(--modal-padding);
+  display: flex;
+  justify-content: flex-end;
+  gap: 16px;
+}
